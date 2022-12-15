@@ -1,0 +1,4 @@
+mypy
+ruff
+black
+ipykernel

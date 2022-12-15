@@ -1,0 +1,5 @@
+fastapi[all]
+diffusers==0.4.0
+transformers
+scipy
+ftfy
