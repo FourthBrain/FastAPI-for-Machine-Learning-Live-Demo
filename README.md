@@ -7,7 +7,7 @@
 
 
 
-# <h1 align="center" id="heading">FastAPI for Machine Learning Live Demo</h1>
+# <h1 align="center" id="heading">FastAPI for Stable Diffusion LLMs Demo</h1>
 
 This repository contains the files to build your very own AI image generation web application! Outlined are the core components of the FastAPI web framework, and application leverage the newly-released Stable Diffusion text-to-image deep learning model.
 
